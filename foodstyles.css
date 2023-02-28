@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background: url(/Users/salmamoge/Downloads/html-css-cheatsheet-starting/pexels-photo-1435895.jpeg);
+    margin: 30px;
+    font-family: serif;
+    
+    
+}
+table, th{
+    border: px solid black;
+    text-align: center;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid rgb(128, 81, 0);
+    background-color: rgb(255, 251, 205);
+    font-size: large;
+
+}
+.japan {
+    padding-top: 50px;
+    border: 3px solid rgb(128, 81, 0);
+
+}
+h1 {
+   
+    transform: uppercase;
+    font-weight: bold;
+    background-color: rgba(165, 42, 42, 0.478);
+
+
+
+    
+}
+.background {
+    opacity: 0.9;
+}
+p {
+    background-color: rgb(255, 251, 205);
+    margin-top: 2%;
+    font-size: large;
+}
+h2 {
+    padding-top: 1.5%;
+    background-color: rgba(165, 42, 42, 0.478);
+}
